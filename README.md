@@ -1,3 +1,4 @@
 # hello-world
 First repository
-Learning to use git, github, and R.
+
+I am learning how to use git, github, and R.
